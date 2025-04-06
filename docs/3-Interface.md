@@ -26,7 +26,7 @@
 ![alt text](images/wireframe5.jpeg)
 ![alt text](images/wireframe6.jpeg)
 ![alt text](images/wireframe7.jpeg)
-> 
+
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)

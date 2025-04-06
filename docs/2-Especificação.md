@@ -20,7 +20,6 @@ Persona 5: Cléia Márcia, 63 anos. É aposentada, e escuta as agressões no seu
 
 Persona 6: Louise Leblanc, 35 anos. Não trabalha, vive com a renda de seu marido. Sofre violência doméstica de seu cônjuge, mas possui dependência financeira dele. Usaria o site para denunciá-lo.
 
-
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
@@ -126,16 +125,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+       |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
 > 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
