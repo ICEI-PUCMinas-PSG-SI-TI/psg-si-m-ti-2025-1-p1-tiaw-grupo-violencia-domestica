@@ -19,19 +19,20 @@
 
 ## Wireframes
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe1.jpeg)
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe2.jpeg)
+img src="![alt text](<WhatsApp Image 2025-04-06 at 18.37.26.jpeg>)
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe3.jpeg)
+img src="![alt text](<WhatsApp Image 2025-04-06 at 18.37.27 (2).jpeg>)
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe4.jpeg)
+img src="![alt text](<WhatsApp Image 2025-04-06 at 18.37.27 (1).jpeg>)
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe5.jpeg)
+img src=![alt text](<WhatsApp Image 2025-04-06 at 18.37.27.jpeg>)
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe6.jpeg)
+img src="![alt text](<WhatsApp Image 2025-04-06 at 18.37.28 (1).jpeg>)
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe7.jpeg)
+img src= "![alt text](<WhatsApp Image 2025-04-06 at 18.37.28 (2).jpeg>)
+
+img src="![alt text](<WhatsApp Image 2025-04-06 at 18.37.28.jpeg>)
 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
