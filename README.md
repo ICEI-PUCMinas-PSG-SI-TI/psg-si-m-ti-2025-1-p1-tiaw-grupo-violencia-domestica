@@ -1,19 +1,24 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-Trabalho Interdisciplinar - Aplicacões Web
+Violencia Doméstica
 
-`CURSO`: 
+`CURSO`: Sistemas de Informação
 
-`SEMESTRE:`
+`SEMESTRE:` 1º semestre
 
 `OBJETIVO ODS:` > Inclua os numeros e a descrição do(s) objetivo(s) ODS da ONU que o Projeto vai atender. 
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Bruno Fernandes
+- Carol Deschamps
+- César Junior
+- Isabelly Layssa
+- Julia Luiza
+- Julia Maria
+- Kauã Felipe
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 

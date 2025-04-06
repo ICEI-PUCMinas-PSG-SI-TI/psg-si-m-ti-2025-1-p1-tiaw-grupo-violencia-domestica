@@ -10,12 +10,7 @@
 
 ## User Flow
 
-![Exemplo de UserFlow](images/userflow.jpg)
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
+<video controls src="../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/UserFlow.mp4" title="Title"></video>
 >
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
@@ -24,13 +19,14 @@
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe1.jpeg)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe2.jpeg)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe3.jpeg)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe4.jpeg)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe5.jpeg)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe6.jpeg)
+![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe7.jpeg)
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
-> 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)

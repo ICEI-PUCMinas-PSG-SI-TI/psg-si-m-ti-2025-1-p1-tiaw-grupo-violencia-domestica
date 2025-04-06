@@ -8,12 +8,17 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Persona 1: Giovanna Mendes, 38 anos. Possível denunciante, é psicóloga e trabalha no RH de uma empresa de advocacia. Sua amiga passa por casos de violência doméstica em casa com o marido e ela usaria o site para denunciá-lo.
 
+Persona 2: Rosangela Maria, 49 anos. Possível denunciante, é empregada doméstica e presencia casos de violência domésticas sofridos pela sua patroa. Usaria o site para denunciar seu patrão. 
+
+Persona 3: Alex, 17 anos. É estudante e trabalha como jovem aprendiz. Presencia cenas de agressão provenientes de seu pai contra sua mãe. Usaria o site para denunciar a violência doméstica dentro de sua casa. 
+
+Persona 4: Maria Silva, 40 anos. É vendedora de bolos e é uma pessoa de classe baixa. Sofre violência doméstica e usaria o site para denunciar o seu agressor. 
+
+Persona 5: Cléia Márcia, 63 anos. É aposentada, e escuta as agressões no seu prédio e em prédio vizinhos. Usaria o site para denunciar anonimamente a violência doméstica ao seu redor em outros apartamentos. 
+
+Persona 6: Louise Leblanc, 35 anos. Não trabalha, vive com a renda de seu marido. Sofre violência doméstica de seu cônjuge, mas possui dependência financeira dele. Usaria o site para denunciá-lo.
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
@@ -36,8 +41,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | acessar um aplicativo seguro e discreto para denunciar agressões e buscar ajuda. | garantir minha segurança, receber suporte imediato e encontrar meios para sair dessa situação sem que meu agressor perceba. |
+
+|Usuário manutenção  | garantir que a plataforma seja segura, estável e discreta. | criar um ambiente onde qualquer pessoa consiga pedir ajuda com um sistema de ótima qualidade. |
+
+|Denunciante terceiro | poder ter acesso a uma plataforma que me permita auxiliar a vítima de maneira remota e eficaz. | a vítima possa receber as medidas e cuidados necessários diante do estado de vulnerabilidade encontrado. |
+
+|Usuário colaborador de ONGs | ter acesso a dados das vítimas como nome e endereço. | entrar em contato com elas e prestar apoio e ajuda psicológica e emocional. |
+
+|Usuário administrador | um painel de gerenciamento. | organizar e acompanhar as denúncias, para garantir que cada caso seja encaminhado corretamente e tratado com segurança. |
+
+|Usuário profissional | quero um espaço seguro para me comunicar com as vítimas. | proporcionar a elas um apoio psicológico para que possam superar os traumas e experiências vividas. |
+
+|Usuário que encaminha e-mail | quero ter acesso às informações da denúncia e do denunciante e/ou vítima. | encaminhar e-mails com as informações da denúncia para a Polícia. |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -58,16 +74,36 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Página de login fácil: cadastro com e-mail/ nome de usuário, senha e opção de lembrar do login | ALTA | 
+
+|RF-002| Upload de provas: o sistema deve permitir envio de imagens, vídeos e áudios como prova da denúncia   | MÉDIA |
+
+|RF-003| Acompanhamento das denúncias: o sistema deve mostrar ao usuário se a denúncia foi enviada corretamente aos órgãos competentes; | ALTA | 
+
+|RF-004| Chat de apoio: o sistema deve conter um chat de apoio com profissionais capacitados para oferecer apoio especializado às vítimas | ALTA |
+
+|RF-005| Posts de como identificar violência doméstica: o site deve conter um informativo para as pessoas saberem o que é violência doméstica e como denunciar | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Adequação de produtos digitais à LGPD | BAIXA |
+
+|RNF-002| Uma solução precisa utilizar criptografia, pois manipula dados sensíveis | MÉDIA |
+
+|RNF-003| Segurança: O sistema deve proteger contra acessos não autorizados, ataques e perda de dados | ALTA |
+
+|RNF-004| Tempo de resposta: O sistema deve responder rapidamente às solicitações do usuário | MÉDIA |
+
+|RNF-005| O sistema deverá estar disponível 7/24 (7 dias por semana 24 horas por dia) | MÉDIA |
+
+|RNF-006|  O processo de desenvolvimento deve utilizar html e css | BAIXA |
+
+|RNF-007| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | MÉDIA |
+
+|RNF-007| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada. | BAIXA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -89,16 +125,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+       |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
 > 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
