@@ -10,7 +10,7 @@
 
 ## User Flow
 
-<video controls src="../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/UserFlow.mp4" title="Title"></video>
+<video controls src="images/UserFlow.mp4" title="Title"></video>
 >
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
@@ -19,13 +19,13 @@
 
 ## Wireframes
 
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe1.jpeg)
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe2.jpeg)
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe3.jpeg)
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe4.jpeg)
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe5.jpeg)
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe6.jpeg)
-![alt text](../../../../Downloads/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica/wireframe7.jpeg)
+![alt text](images/wireframe1.jpeg)
+![alt text](images/wireframe2.jpeg)
+![alt text](images/wireframe3.jpeg)
+![alt text](images/wireframe4.jpeg)
+![alt text](images/wireframe5.jpeg)
+![alt text](images/wireframe6.jpeg)
+![alt text](images/wireframe7.jpeg)
 > 
 > **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
