@@ -764,7 +764,7 @@ input:checked + .slider:before {
 
         document.querySelectorAll(".card")[0].querySelector(".card-body").innerHTML = `
             <h5 class="card-title">Total de denúncias</h5>
-            <p>${denuncias.length}</p>
+            <p class='roberto'>${denuncias.length}</p>
         `;
 
         const tipos = {};
@@ -775,7 +775,7 @@ input:checked + .slider:before {
         const tipoHtml = Object.entries(tipos).map(([k, v]) => `<p>${k}: ${v}</p>`).join('');
         document.querySelectorAll(".card")[1].querySelector(".card-body").innerHTML = `
             <h5 class="card-title">Distribuição por tipo de violência</h5>
-            ${tipoHtml || "<p class="roberto">Nenhuma</p>"}
+            ${tipoHtml || "<p class='roberto'>Nenhuma</p>"}
         `;
 
    
@@ -787,7 +787,7 @@ input:checked + .slider:before {
         });
         document.querySelectorAll(".card")[2].querySelector(".card-body").innerHTML = `
             <h5 class="card-title">Distribuição por UF</h5>
-            <p class="roberto">${estados.size} estado(s)</p>
+            <p class='roberto'>${estados.size} estado(s)</p>
         `;
 
         const porData = {};
@@ -797,7 +797,7 @@ input:checked + .slider:before {
         const dataHtml = Object.entries(porData).map(([d, v]) => `<p>${d}: ${v}</p>`).join('');
         document.querySelectorAll(".card")[3].querySelector(".card-body").innerHTML = `
             <h5 class="card-title">Denúncias por período</h5>
-            ${dataHtml || "<p class="roberto">--</p>"}
+            ${dataHtml || "<p class='roberto'>--</p>"}
         `;
     }
 
