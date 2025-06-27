@@ -16,7 +16,7 @@ Os membros do grupo são:
 - Bruno Fernandes
 - Carolina Deschamps dos Santos
 - Cesar Rogério Lopes Júnior
-- Isabelly Layssa
+- Isabelly Layssa Santos Araújo
 - Julia Luiza Lopes Ribeiro
 - Julia Maria Ferreira
 - Kauã Felipe Soares Silva
