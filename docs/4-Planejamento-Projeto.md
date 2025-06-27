@@ -8,22 +8,22 @@
 
   
 ### Sprint 1
-- _Scrum master_: AlunaX
-- Protótipos: AlunoY
-- Testes: AlunoK
-- Documentação: AlunaZ
+- _Scrum master_: Carolina Deschamps
+- Protótipos: todos
+- Testes: todos
+- Documentação: Isabelly Layssa e Bruno Fernandes
 
 ### Sprint 2
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- _Scrum master_: Carolina Deschamps
+- Desenvolvedor _front-end_: todos
+- Desenvolvedor _back-end_: todos
+- Testes: todos
 - 
 ### Sprint 3
-- _Scrum master_: AlunaY
-- Desenvolvedor _front-end_: AlunoX
-- Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- _Scrum master_: Carolina Deschamps
+- Desenvolvedor _front-end_: Isabelly Layssa, Júlia Luiza, Carolina Deschamps, Júlia Maria, Kauã Felipe e Cesar Rogério
+- Desenvolvedor _back-end_: Kauã Felipe, Carolina Deschamps, Cesar Rogério e Júlia Maria
+- Testes: Cesar Rogério, Kauã Felipe e Carolina Deschamps
 
   
 ## Quadro de tarefas
@@ -34,14 +34,14 @@
 
 ## Sprint 1
 
-Atualizado em: 21/04/2024
+Atualizado em: 18/05/2025
 
-| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
-| :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
+| Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em  |
+| :----         |    :----         |      :----:    | :----:     | :----: | :----:        |
+| Bruno Fernandes   | Introdução   | 01/02/2024     | 07/02/2024 | ✔️    | 18/05/2025  |
+| Carolina Deschamps | Objetivos   | 03/02/2024| 10/02/2024 | ✔️    | 18/05/2025  |
+| Cesar Rogério | Histórias de usuário  | 01/01/2024 | 07/01/2005 | ✔️     |                 |
+| Isabelly Layssa | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
 
 ## Sprint 2
 
