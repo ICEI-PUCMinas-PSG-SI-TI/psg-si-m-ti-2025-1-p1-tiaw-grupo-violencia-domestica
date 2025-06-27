@@ -1,0 +1,35 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Escuta Amiga
+authors:
+  - family-names: 
+    given-names: Bruno
+  - family-names: Deschamps dos Santos
+    given-names: Carolina 
+  - family-names: Lopes Júnior
+    given-names: Cesar Rogério 
+  - family-names: 
+    given-names: 
+  - family-names: Lopes Ribeiro
+    given-names: Julia Luiza
+  - family-names: Ferreira
+    given-names: Julia Maria
+  - family-names: Soares Silva
+    given-names: Kauã Felipe
+
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Pedro Felipe
+
+    keywords:
+    - denúncias
+    - ajuda
+    - sociedade
+    - mulher
+    - conscientização
+
+repository-code: https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-m-ti-2025-1-p1-tiaw-grupo-violencia-domestica
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-06-25
