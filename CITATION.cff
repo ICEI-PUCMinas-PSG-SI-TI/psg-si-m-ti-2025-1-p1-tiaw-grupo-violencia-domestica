@@ -2,14 +2,14 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: Escuta Amiga
 authors:
-  - family-names: 
+  - family-names: Fernandes
     given-names: Bruno
   - family-names: Deschamps dos Santos
     given-names: Carolina 
   - family-names: Lopes Júnior
     given-names: Cesar Rogério 
-  - family-names: 
-    given-names: 
+  - family-names: Santos Araújo
+    given-names: Isabelly Layssa
   - family-names: Lopes Ribeiro
     given-names: Julia Luiza
   - family-names: Ferreira
