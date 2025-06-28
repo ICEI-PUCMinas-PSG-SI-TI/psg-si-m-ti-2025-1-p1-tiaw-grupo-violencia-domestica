@@ -17,7 +17,7 @@
 
 ## Slides
 
-[slides da apresentação](<../docs/apresentacao/Escuta amiga.pptx>)
+[slides da apresentação](<../apresentacao/Escuta amiga.pptx>)
 
 ## Vídeo
 
