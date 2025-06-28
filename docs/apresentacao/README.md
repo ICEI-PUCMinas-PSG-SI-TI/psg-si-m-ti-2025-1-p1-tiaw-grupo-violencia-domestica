@@ -17,8 +17,8 @@
 
 ## Slides
 
-[Coloque aqui os slides da apresentação](<../../../../Downloads/Slides- violência doméstica final.pdf>)
+[Coloque aqui os slides da apresentação](<../../../../Escuta amiga.pptx>)
 
 ## Vídeo
 
-No caso de apresentação gravada, insira aqui o link do vídeo de apresentação.
+https://youtu.be/rm0L-0Scaq0
