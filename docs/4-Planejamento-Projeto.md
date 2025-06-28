@@ -41,7 +41,10 @@ Atualizado em: 18/05/2025
 | Bruno Fernandes   | Introdução   | 01/02/2024     | 07/02/2024 | ✔️    | 18/05/2025  |
 | Carolina Deschamps | Objetivos   | 03/02/2024| 10/02/2024 | ✔️    | 18/05/2025  |
 | Cesar Rogério | Histórias de usuário  | 01/01/2024 | 07/01/2005 | ✔️     |                 |
-| Isabelly Layssa | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
+| Júlia Luiza | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
+| Júlia Maria | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
+|  | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
+| Kauã Felipe | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
 
 ## Sprint 2
 
