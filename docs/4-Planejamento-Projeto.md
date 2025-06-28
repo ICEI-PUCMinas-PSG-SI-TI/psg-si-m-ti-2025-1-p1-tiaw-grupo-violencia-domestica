@@ -38,36 +38,41 @@ Atualizado em: 18/05/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em  |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:        |
-| Bruno Fernandes   | Introdução   | 01/02/2024     | 07/02/2024 | ✔️    | 18/05/2025  |
-| Carolina Deschamps | Objetivos   | 03/02/2024| 10/02/2024 | ✔️    | 18/05/2025  |
-| Cesar Rogério | Histórias de usuário  | 01/01/2024 | 07/01/2005 | ✔️     |                 |
-| Júlia Luiza | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
-| Júlia Maria | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
-|  | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
-| Kauã Felipe | Personas 1     |    01/01/2024   | 12/02/2005 | ✔️    |       |
+| Bruno Fernandes | Cadastro de profissionais | 02/05/2025 | 18/05/2025 | ✔️ | 13/05/2025  |
+| Carolina Deschamps | Colaboradores e chat | 01/05/2024 | 18/05/2025 | ✔️ | 12/05/2025  |
+| Cesar Rogério | Botão de disfarce | 15/05/2025 | 18/05/2025 | ✔️ | 18/05/2025  |
+| Júlia Luiza | Relatório de profissionais que mais atenderam | 18/05/2025 | 12/02/2005 | ✔️    | 12/05/2025 |
+| Júlia Maria | Relatório de denúncias não atendidas | 08/05/2025 | 18/05/2025 | ✔️  | 16/05/2025 |
+| Isabelly Layssa | Cadastro de denúncias | 17/05/2025 | 18/05/2025 | ✔️ | 18/05/2025 |
+| Kauã Felipe | Relatório de denúncias feitas | 17/05/2025 | 18/05/2025 | ✔️ | 18/05/2025 |
 
 ## Sprint 2
 
-Atualizado em: 21/04/2024
+Atualizado em: 12/06/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Home-Page        | 01/02/2024     | 07/03/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | CSS Unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
-| AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛     |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       |
+| Bruno Fernandes | Cadastro de usuário | 05/06/2025 | 12/06/2025 | ✔️ | 09/06/2025  |
+| Carolina Deschamps | Mapa de posto policial | 01/06/2025 | 12/06/2025| ✔️ | 10/06/2025  |
+| Cesar Rogério | Modo noturno | 08/06/2025 | 12/06/2025 | ✔️ | 11/06/2025 |
+| Júlia Luiza | Questionário autoavaliação | 01/06/2025 | 12/06/2025 | ✔️ | 10/06/2025 |
+| Júlia Maria | FAQ | 02/06/2025 | 12/06/2025 | ✔️  | 09/06/2025 |
+| Isabelly Layssa | Cadastro de administradores | 05/06/2025 | 12/06/2025 | ✔️ | 11/06/2025 |
+| Kauã Felipe | Relatório de denúncias feitas | 11/06/2025 | 12/06/2025 | ✔️ | 12/06/2025 |
 
 ## Sprint 3
 
-Atualizado em: 21/04/2024
+Atualizado em: 25/06/2025
 
 | Responsável   | Tarefa/Requisito | Iniciado em    | Prazo      | Status | Terminado em    |
 | :----         |    :----         |      :----:    | :----:     | :----: | :----:          |
-| AlunaX        | Introdução | 01/02/2024     | 07/02/2024 | ✔️    | 05/01/2005      |
-| AlunaZ        | Objetivos    | 03/02/2024     | 10/02/2024 | 📝    |                 |
-| AlunoY        | Histórias de usuário  | 01/01/2024     | 07/01/2005 | ⌛     |                 |
-| AlunoK        | Personas 1  |    01/01/2024        | 12/02/2005 | ❌    |       |
-
+| Bruno Fernandes | Cadastro de usuário | 05/06/2025 | 25/06/2025 | ✔️ | 09/06/2025  |
+| Carolina Deschamps | Mapa de posto policial | 01/06/2025 | 25/06/2025 | ✔️ | 10/06/2025  |
+| Cesar Rogério | Modo noturno | 08/06/2025 | 12/06/2025 | ✔️ | 11/06/2025 |
+| Júlia Luiza | Questionário autoavaliação | 01/06/2025 | 25/06/2025 | ✔️ | 10/06/2025 |
+| Júlia Maria | FAQ | 02/06/2025 | 25/06/2025 | ✔️  | 09/06/2025 |
+| Isabelly Layssa | Cadastro de administradores | 05/06/2025 | 25/06/2025 | ✔️ | 11/06/2025 |
+| Kauã Felipe | Relatório de denúncias feitas | 11/06/2025 | 25/06/2025 | ✔️ | 12/06/2025 |
 Legenda:
 - ✔️: terminado
 - 📝: em execução
